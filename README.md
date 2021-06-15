@@ -20,7 +20,6 @@ Path planning for Holonomic robots - 4 wheel using RRT Algorithm
 <p align="center">
 <img src="data/goal_5-2-270_all.png"/>
 </p>
-
 <p align="center">
 <img src="data/goal_5-2-270.png"/>
 </p>
@@ -30,7 +29,6 @@ Path planning for Holonomic robots - 4 wheel using RRT Algorithm
 <p align="center">
 <img src="data/goal_1.5_4_90_all.png"/>
 </p>
-
 <p align="center">
 <img src="data/goal_1.5_4_90.png"/>
 </p>
